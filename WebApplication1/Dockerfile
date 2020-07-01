@@ -1,4 +1,4 @@
-FROM 192.168.161.151/coresdk/aspnetcore AS base
+FROM 192.168.161.156/coresdk/aspnetcore AS base
 WORKDIR /app
 EXPOSE 5001
 
